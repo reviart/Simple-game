@@ -1,25 +1,33 @@
-# Permainan tebak-kata
+# Trial Task - Risjad Muhammad Reviansyah
+
+## Company
+Klikdaily
+
+## Date
+16 July 2019
+
+## Permainan tebak-kata
 Permainan tebak kata alat dapur, yaitu benda yang digunakan untuk memasak atau makan.
 Versi ruby yang digunakan 2.6.1 atau 2.5.x
 
-# Persiapan
+## Persiapan
 1. Clone atau download repository ini
 2. Eksekusi pada terminal
 ```ssh
 $ ruby aplikasi.rb
 ```
 
-# Cara bermain
+## Cara bermain
 1. Pemain akan memilih berapa banyak soal yang ingin dijawab
 2. Setiap soal pemain dapat memilih banyaknya kesempatan mencoba
 3. Pertama kali pemain memiliki level Beginner, dan level tertinggi adalah Hard
 
-# Level
+## Level
 1. Beginner (point +1)
 2. Medium (point +2)
 3. Hard (point +3)
 
-# Perpustakaan
+## Perpustakaan
 1. piring
 2. gelas
 3. garpu
